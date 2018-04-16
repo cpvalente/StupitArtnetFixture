@@ -1,1 +1,1 @@
-# StupitArtnetFixture
+# StupidArtnetFixture
